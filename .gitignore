@@ -1,0 +1,12 @@
+# .NET build output
+bin/
+obj/
+
+# Rider / JetBrains
+.idea/
+
+# MS Office temp files
+~$*
+
+# User-specific
+*.user
